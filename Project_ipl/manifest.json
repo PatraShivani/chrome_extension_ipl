@@ -1,0 +1,16 @@
+{
+    "name": "IPL Updates Extension",
+    "version": "1.0.0",
+    "description": "IPL Extension",
+    "manifest_version": 3,
+    "author": "Shivani Patra",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "IPL Updates Extension",
+        "default_icon":"iplLogo.png"
+    },
+    "icons": {
+        "128": "iplLogo.png"
+    },
+    "permissions": ["activeTab"]
+}
